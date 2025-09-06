@@ -1,18 +1,58 @@
-# 👾 About Me:
-👋 Hey there, I'm Rohit Amal Raj<br>An enthusiastic learner driven by curiosity and a deep passion for computer science. I love solving real-world problems through code and continuously pushing the boundaries of what I can create.<br><br>💡 What I’m about:<br>🌐 Exploring full-stack development and AI-driven applications<br><br>🧠 Constantly learning new frameworks, languages, and tech concepts<br><br>🌍 Passionate about bridging tech with real-world impact<br><br>🌱 Outside the tech world:<br>I enjoy diving into topics like world cinema, games, video editing and everything that feeds curiosity and growth. I believe in lifelong learning and the power of creativity across disciplines.<br><br>🚀 Let’s build something great!<br>Whether it's collaborating on open-source projects or brainstorming new ideas, I'm always open to connecting with fellow developers and creators.
+<p align="center">
+  <img src="https://i.imgur.com/YiLpFtE.png" alt="One Piece Bounty Poster" width="60%" />
+</p>
 
+<h1 align="center">WANTED</h1>
+<h2 align="center">**Rohit Amal Raj of the GitHub Seas**</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-amal-raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitamalraj@gmail.com) 
-
-# 💻 Tech Stack:
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GithubRohitamalraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GithubRohitamalraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubRohitamalraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Bounty-∞ Berries-FFDD00?style=for-the-badge&logo=opencollective&logoColor=black">
+  <br />
+  <em>Highest-ranking technophile in the New World!</em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GithubRohitamalraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Voyage Log & Dev Tale
+
+I’m **Rohit Amal Raj**, navigating the vast GitHub waters with code as my compass and One Piece as my spirit. 🏴‍☠️
+
+- **Current Journey**: Seeking legendary projects that echo the resonance of a Devil Fruit: magical, powerful, and impactful.
+- **Crew Motto**: “Set sail fearlessly, code relentlessly.”
+
+##  Devil Fruit Arsenal (Tech Stack)
+
+| Category              | Devil Fruit Power (Tech)                                         |
+|----------------------|-------------------------------------------------------------------|
+|  **Devil Fruits**    | Python, C, C++, Java, JavaScript, TypeScript, Solidity           |
+|  **Navigator Tools** | React, Vite, HTML5, CSS3, TailwindCSS                           |
+|  **Ship’s Engines**  | Node.js, Express.js, Flask, REST, WebSockets                    |
+|  **Treasure Vaults** | MySQL, MongoDB, PostgreSQL, Supabase, Firebase                  |
+|  **Grand Line Chains** | Ethereum, Solana, Aptos, OKX                                   |
+|  **Observation Haki** | OpenAI, OpenCV, Tesseract.js, PDF.js, QR Processing              |
+|  **Sea Legs & Maintenance** | Git, Docker, AWS, CI/CD, Monitoring tools                |
+
+##  Crew Bounty: GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitamalraj&show_icons=true&bg_color=000000&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00&border_color=FFDD00&include_all_commits=true&count_private=true" alt="Rohit's GitHub stats" width="70%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitamalraj&background=000000&border=FFDD00&fire=FFDD00&currStreakNum=FFFFFF&ring=FFDD00&currStreakLabel=FFDD00&sideNums=FFFFFF&sideLabels=FFDD00&dates=FFFFFF" alt="Rohit's GitHub streak" width="70%" />
+</p>
+
+---
+
+##  Contact the Pirate
+
+Got a voyage in mind? Ready to explore the Grand Line together?
+
+| Message In A Bottle | Coordinates |
+|----------------------|-------------|
+|  Email             | [rohitamalraj@gmail.com](mailto:rohitamalraj@gmail.com) |
+|  LinkedIn          | [Rohit Amal Raj](https://www.linkedin.com/in/rohit-amal-raj/) |
+|  GitHub Captain    | [@Rohitamalraj](https://github.com/Rohitamalraj) |
+
+---
+
+* “I’m gonna become the King of Coders!” — Rohit Amal Raj, Pirate of the Code Seas*
