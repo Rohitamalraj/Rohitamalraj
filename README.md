@@ -1,10 +1,5 @@
-# 💫 About Me:
+
 # 👾 About Me  
-
-
-# 📜 One Piece Quotes  
-<img src="https://raw.githubusercontent.com/Rohitamalraj/Rohitamalraj/output/quotes.svg" alt="One Piece Quotes" width="700"/>
-
 
 👋 Hi, I'm **Rohit Amal Raj** — a curious learner passionate about computer science and solving real-world problems through code.  
 Like a pirate on the Grand Line 🌊, I’m always seeking the next adventure in tech.  
@@ -20,8 +15,6 @@ Like a pirate on the Grand Line 🌊, I’m always seeking the next adventure in
 
 ## 🌱 Beyond Tech  
 🎬 World cinema • 🎮 Gaming • 🎥 Video editing • 📚 Lifelong learning  
-(*Even pirates need downtime — mine’s spent exploring creativity across worlds.*)  
-
 ---
 
 ## 🌐 Socials:
@@ -62,13 +55,10 @@ Like a pirate on the Grand Line 🌊, I’m always seeking the next adventure in
 
 ---
 
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rohitamalraj/Rohitamalraj/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Rohitamalraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
