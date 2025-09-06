@@ -49,9 +49,13 @@ Like a pirate on the Grand Line 🌊, I’m always chasing the next adventure in
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohitamalraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohitamalraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitamalraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitamalraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohitamalraj&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitamalraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 
@@ -61,6 +65,7 @@ Like a pirate on the Grand Line 🌊, I’m always chasing the next adventure in
 </p>
 
 ---
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=950&lines=“I'm+gonna+be+King+of+the+Pirates!”+-+Monkey+D.+Luffy;“Inherited+will+never+dies.”+-+Gol+D.+Roger;“Fear+isn’t+evil.+It+shows+you+your+weakness.”+-+Gild+Teszoro;“Protect+what+matters+to+you+no+matter+what.”+-+Roronoa+Zoro;“When+do+you+think+people+die?+When+they+are+forgotten.”+-+Dr.+Hiluluk;“Power+alone+isn't+enough+to+conquer+the+sea.”+-+Jinbe;“A+man+dies+when+he+is+forgotten,+not+when+he+loses.”+-+Dr.+Hiluluk;“No+one+can+stop+me+from+dreaming.”+-+Monkey+D.+Luffy;“I+have+a+crew+that+loves+me.”+-+Sanji;“The+one+who+wins+becomes+justice.”+-+Donquixote+Doflamingo" />
 </h1>
