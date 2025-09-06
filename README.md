@@ -1,6 +1,11 @@
 # 💫 About Me:
 # 👾 About Me  
 
+
+# 📜 One Piece Quotes  
+<img src="https://raw.githubusercontent.com/Rohitamalraj/Rohitamalraj/output/quotes.svg" alt="One Piece Quotes" width="700"/>
+
+
 👋 Hi, I'm **Rohit Amal Raj** — a curious learner passionate about computer science and solving real-world problems through code.  
 Like a pirate on the Grand Line 🌊, I’m always seeking the next adventure in tech.  
 
