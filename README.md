@@ -1,20 +1,30 @@
+<p align="center">
+  <img src="https://blue-genuine-deer-333.mypinata.cloud/ipfs/bafybeia3keitzac674ukxpauizugvgpaxnxwd5y2k74a5332zdpg4ff4c4" alt="Rohit Amal Raj Wanted Poster" width="500"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=950&lines=“I'm+gonna+be+King+of+the+Pirates!”+-+Monkey+D.+Luffy;“Inherited+will+never+dies.”+-+Gol+D.+Roger;“Fear+isn’t+evil.+It+shows+you+your+weakness.”+-+Gild+Teszoro;“Protect+what+matters+to+you+no+matter+what.”+-+Roronoa+Zoro;“When+do+you+think+people+die?+When+they+are+forgotten.”+-+Dr.+Hiluluk;“Power+alone+isn't+enough+to+conquer+the+sea.”+-+Jinbe;“A+man+dies+when+he+is+forgotten,+not+when+he+loses.”+-+Dr.+Hiluluk;“No+one+can+stop+me+from+dreaming.”+-+Monkey+D.+Luffy;“I+have+a+crew+that+loves+me.”+-+Sanji;“The+one+who+wins+becomes+justice.”+-+Donquixote+Doflamingo" />
+</h1>
+
+---
 
 # 👾 About Me  
 
 👋 Hi, I'm **Rohit Amal Raj** — a curious learner passionate about computer science and solving real-world problems through code.  
-Like a pirate on the Grand Line 🌊, I’m always seeking the next adventure in tech.  
+Like a pirate on the Grand Line 🌊, I’m always chasing the next adventure in tech.  
 
 ---
 
 ## 💡 What I Do  
-- 🌐 Full-stack development & AI-driven applications  
-- 🧠 Exploring new frameworks, languages & tech concepts  
-- 🌍 Building solutions with real-world impact  
+- 🌐 Full-stack & AI-driven applications  
+- 🧠 Exploring new frameworks, languages & concepts  
+- 🌍 Using tech for real-world impact  
 
 ---
 
 ## 🌱 Beyond Tech  
-🎬 World cinema • 🎮 Gaming • 🎥 Video editing • 📚 Lifelong learning  
+🎬 Cinema • 🎮 Gaming • 🎥 Video editing • 📚 Lifelong learning  
+
 ---
 
 ## 🌐 Socials:
@@ -63,5 +73,3 @@ Like a pirate on the Grand Line 🌊, I’m always seeking the next adventure in
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Rohitamalraj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
