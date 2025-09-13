@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczlhd3E5dnhvcjRoandkMDAwYzNiMDFkbzk1YWZkMnlxeXllcWF0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nr16CiUApTpIytUstb/giphy.gif" alt="Spider-Man" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y3OWdia3A1eHp4b2J3b3A0cGM2N3hnczZ2ejA4eWw5dGF5bDZ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nr16CiUApTpIytUstb/giphy.gif" alt="Spider-Man" width="300"/>
 </div>
 
 ## 🕸️ About Your Friendly Neighborhood Developer
