@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Rohit Amal Raj 🕷️
+<div align="center">
+  <img src="https://blue-genuine-deer-333.mypinata.cloud/ipfs/bafkreidzf2belstpshpyzosfd5t32ygvjnizkgqtedorimnfdw2onr5yre" 
+       alt="Rohit Amal Raj - Spider-Man Style" 
+       style="width: 100%; max-height: 400px; object-fit: contain;" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Your+Friendly+Neighborhood+Developer;Web-Slinging+Through+Code;With+Great+Code+Comes+Great+Responsibility" alt="Typing SVG" />
@@ -118,9 +122,9 @@ const spiderDev = {
 ## 🎯 What I'm Currently Web-Slinging
 
 - 🕷️ **Currently Working On**: Building amazing web applications with React & Next.js
-- 🕸️ **Learning**: Advanced Web3 development and React Native mastery
+- 🕸️ **Learning**: Advanced Web3 development and Next.js mastery
 - 🦹 **Looking to Collaborate On**: Open source projects, Web3 dApps, and mobile applications
-- 💬 **Ask Me About**: React, Next.js, React Native, Blockchain, or anything full-stack!
+- 💬 **Ask Me About**: React, Next.js, Blockchain, or anything full-stack!
 - ⚡ **Fun Fact**: I can switch between frontend frameworks faster than Spider-Man changes costumes!
 
 ## 🕸️ My Web Development Journey
@@ -157,16 +161,6 @@ Problem Solving    ████████████████████�
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117" alt="Jokes Card" />
-</div>
-
-## 🦹 Support My Web-Slinging Adventures
-
-If you like my work and want to support your friendly neighborhood developer:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohitamalraj)
-
 </div>
 
 ---
