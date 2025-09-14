@@ -35,7 +35,10 @@ const spiderDev = {
 
 </div>
 
-## 🕸️ My Spider-Powers (Tech Arsenal)
+## 🕸️ My Spidey-Senses (Tech Arsenal) 
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RsNjEya2V3eHVmcWowZXJ1NmFuYzEyYmxtbjkyaXdzNHN4eGhybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1bGXbqf3a0Rk7CviJk/giphy.gif" alt="Spider-Man" width=300/>
+</div>
 
 ### 💻 Programming Languages & Core Powers
 <div align="center">
