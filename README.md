@@ -109,12 +109,6 @@ const spiderDev = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitamalraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-## 🕷️ Spider-Sense Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitamalraj&theme=redical&hide_border=true&bg_color=0D1117&color=DC143C&line=FF6B6B&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
 ## 🏆 Web-Slinging Achievements
 
 <div align="center">
@@ -163,17 +157,6 @@ Problem Solving    ████████████████████�
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117" alt="Jokes Card" />
-</div>
-
-## 🔥 Featured Repositories
-
-<div align="center">
-
-<!-- Replace these with your actual repository names -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=rohitamalraj&repo=your-awesome-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/rohitamalraj/your-awesome-project)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=rohitamalraj&repo=another-cool-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/rohitamalraj/another-cool-project)
-
 </div>
 
 ## 🦹 Support My Web-Slinging Adventures
