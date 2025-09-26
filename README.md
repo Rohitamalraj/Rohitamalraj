@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blue-genuine-deer-333.mypinata.cloud/ipfs/bafkreidzf2belstpshpyzosfd5t32ygvjnizkgqtedorimnfdw2onr5yre" 
+  <img src="https://blue-genuine-deer-333.mypinata.cloud/ipfs/bafybeie6lnn2tznpq62kfgogmqj6wu6gefkd6zlpgjz7mymxamr25ts7ei" 
        alt="Rohit Amal Raj - Spider-Man Style" 
        style="width: 100%; max-height: 400px; object-fit: contain;" />
 </div>
